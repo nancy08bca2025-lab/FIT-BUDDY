@@ -22,7 +22,7 @@ To demonstrate the working of the Fit Buddy AI application and explain its main 
 5. Show the final output.
 
 ## Demo Video
-The project demonstration video is shared through Google Drive.
+video link[https://drive.google.com/file/d/1C7TmxnHrzGYhAivOBYu8unNhPdEnuDpl/view?usp=drive_link]
 
 ## Conclusion
 The completed Fit Buddy AI project is demonstrated with its main features and final output.
